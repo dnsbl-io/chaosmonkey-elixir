@@ -1,3 +1,4 @@
-# chaosmonkey-elixir
+Chaosmonkey
+===========
 
-Kill Elixir processes randomly
+** TODO: Add description **
