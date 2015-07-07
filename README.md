@@ -1,4 +1,4 @@
-# Chaosmonkey for Elixir
+# Chaos Monkey for Elixir
 
 > Chaos Monkey is an open source software tool for DevOps created by Adrian Cockroft at Netflix that tests computer systems. The software works by intentionally creating different failures and tests the ability to survive them.
 
